@@ -1,0 +1,19 @@
+html,
+body{
+  height: 100%;
+  width: 100%;
+
+}
+
+.Card{
+  background-color: rgb(255, 162, 0);
+  margin:20px;
+  border-radius:10px;
+  padding:20px;
+}
+.Nav{
+  background-color: antiquewhite;
+  padding: 20px;
+  margin: 10px;
+  cursor: pointer;
+}
